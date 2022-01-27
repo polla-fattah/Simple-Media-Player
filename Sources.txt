@@ -1,0 +1,6 @@
+All Icons from
+http://www.youtoart.com/html/Icon/Other/6356.html
+
+Some use of codes wth changes from
+http://stackoverflow.com/
+http://developer.android.com/guide/topics/media/mediaplayer.html

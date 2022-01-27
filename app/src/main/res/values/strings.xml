@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Music Player</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="status_image_desc">Status of Play/Pause</string>
+    <string name="contentDescPauseBtn">Play/Pause</string>
+    <string name="contentDescPrevBtn">Prev</string>
+    <string name="contentDescStopBtn">Stop</string>
+    <string name="contentDesc_nextBtn">Next</string>
+    <string name="contentDesc_exitBtn">Exit</string>
+</resources>
